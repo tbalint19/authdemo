@@ -1,0 +1,38 @@
+[
+  {
+    "userId": "0.6733969639362918",
+    "username": "john",
+    "password": "123",
+    "posts": [
+      "auto",
+      "konyv",
+      "hulye vagyok",
+      "nem is vagyok hulye"
+    ]
+  },
+  {
+    "userId": "0.3447688242987259",
+    "username": "jack",
+    "password": "123",
+    "posts": []
+  },
+  {
+    "userId": "0.3209846608353051",
+    "username": "jim",
+    "password": "123",
+    "posts": []
+  },
+  {
+    "userId": "0.06622014330979376",
+    "username": "jane",
+    "password": "321",
+    "posts": [
+      "alma",
+      "korte",
+      "barack",
+      "szilva",
+      "narancs",
+      "meg valami"
+    ]
+  }
+]
